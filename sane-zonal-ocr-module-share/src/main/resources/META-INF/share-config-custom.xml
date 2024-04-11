@@ -49,22 +49,22 @@
 
         </actions>
         <actionGroups>
-            <actionGroup id="folder-browse">
+            <actionGroup id="document-browse">
                 <action index="400" id="zylk.doclib.action.scan"/>
             </actionGroup>
-            <actionGroup id="folder-details">
+            <actionGroup id="document-details">
                 <action index="400" id="zylk.doclib.action.scan"/>
             </actionGroup>
-            <actionGroup id="folder-browse">
+            <actionGroup id="document-browse">
                 <action index="400" id="zylk.doclib.action.scan-to-ocr"/>
             </actionGroup>
-            <actionGroup id="folder-details">
+            <actionGroup id="document-details">
                 <action index="400" id="zylk.doclib.action.scan-to-ocr"/>
             </actionGroup>
-            <actionGroup id="folder-browse">
+            <actionGroup id="document-browse">
                 <action index="400" id="zylk.doclib.action.ocr"/>
             </actionGroup>
-            <actionGroup id="folder-details">
+            <actionGroup id="document-details">
                 <action index="400" id="zylk.doclib.action.ocr"/>
             </actionGroup>
         </actionGroups>
